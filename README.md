@@ -21,9 +21,9 @@ Please read the [contributing guide](https://github.com/ri0n-dev/hex-ui/blob/mai
 
 <a href="https://www.star-history.com/?repos=hexui-sh%2Fui&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&theme=dark&legend=top-left&sealed_token=oyj8lqrv0idGfd2eZNK3tGypTx7cfYqV0fL9LW0Gt3yBJ2qY1yfPFN3Oc3gIjqEnINbydgcF4cJYcCG3iwMv0cYLjuJepDFk17yjElvslKZJo6_jASbojA" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&legend=top-left&sealed_token=oyj8lqrv0idGfd2eZNK3tGypTx7cfYqV0fL9LW0Gt3yBJ2qY1yfPFN3Oc3gIjqEnINbydgcF4cJYcCG3iwMv0cYLjuJepDFk17yjElvslKZJo6_jASbojA" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&legend=top-left&sealed_token=oyj8lqrv0idGfd2eZNK3tGypTx7cfYqV0fL9LW0Gt3yBJ2qY1yfPFN3Oc3gIjqEnINbydgcF4cJYcCG3iwMv0cYLjuJepDFk17yjElvslKZJo6_jASbojA" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&theme=dark&legend=top-left&sealed_token=XkQxz0mWvNFi4jV4Zyr-R8Wlz9C8WNK6nabXr11eCUWaneYVCsH5hgcx2ya25q7sxXSzWP7iJ1qmWyFSvpzumtJFgteJSZQE4a0Tqba2xsb_hK7bjqiUxA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&legend=top-left&sealed_token=XkQxz0mWvNFi4jV4Zyr-R8Wlz9C8WNK6nabXr11eCUWaneYVCsH5hgcx2ya25q7sxXSzWP7iJ1qmWyFSvpzumtJFgteJSZQE4a0Tqba2xsb_hK7bjqiUxA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hexui-sh/ui&type=date&legend=top-left&sealed_token=XkQxz0mWvNFi4jV4Zyr-R8Wlz9C8WNK6nabXr11eCUWaneYVCsH5hgcx2ya25q7sxXSzWP7iJ1qmWyFSvpzumtJFgteJSZQE4a0Tqba2xsb_hK7bjqiUxA" />
  </picture>
 </a>
 
